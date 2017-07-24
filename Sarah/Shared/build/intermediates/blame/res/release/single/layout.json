@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\layout\\text_bubble.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.3.4\\res\\layout\\text_bubble.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_progress.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\layout\\text_bubble.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.3.4\\res\\layout\\text_bubble.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_progress.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\layout\\text_bubble.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.3.4\\res\\layout\\text_bubble.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_fragment.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_fragment.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_fragment.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_progress.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\bubble_shadow.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.3.4\\res\\drawable-xxhdpi-v4\\bubble_shadow.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\bubble_mask.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.3.4\\res\\drawable-xxhdpi-v4\\bubble_mask.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\bubble_shadow.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.3.4\\res\\drawable-xxhdpi-v4\\bubble_shadow.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\bubble_mask.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.3.4\\res\\drawable-xxhdpi-v4\\bubble_mask.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\bubble_mask.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.3.4\\res\\drawable-xxhdpi-v4\\bubble_mask.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Shared\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\bubble_shadow.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.3.4\\res\\drawable-xxhdpi-v4\\bubble_shadow.9.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\places_ic_search.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\places_ic_search.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\places_ic_clear.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\powered_by_google_light.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\powered_by_google_light.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\places_ic_clear.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\powered_by_google_dark.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\places_ic_clear.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\powered_by_google_dark.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\places_ic_search.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\places_ic_search.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\powered_by_google_light.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\powered_by_google_dark.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Shared\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\places_ic_search.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Shared\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\places_ic_search.png"
+    }
+]

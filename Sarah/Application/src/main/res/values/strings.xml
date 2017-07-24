@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="empty_list">No shops found nearby!</string>
+    <string name="nearby_attraction">Nearby shop</string>
+    <string name="action_test_notification">Test Notification</string>
+    <string name="action_test_notification_dialog">
+<![CDATA[
+This will trigger a rich notification with the closest shop around.
+]]>
+    </string>
+    <string name="action_map">Show on Map</string>
+    <string name="permission_explanation">Allow this app to use your location to show distance to attractions?</string>
+    <string name="permission_explanation_action">Let\'s do it!</string>
+
+</resources>

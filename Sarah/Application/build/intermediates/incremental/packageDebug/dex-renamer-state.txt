@@ -1,0 +1,7 @@
+#Mon Jul 24 16:06:11 EEST 2017
+base.0=D\:\\Facultate\\Proiecte\\Sarah\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_da9dcdb52d75dfc48bc131cfc29302ef6a875892
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Facultate\\Proiecte\\Sarah\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8e5ac1df3e5fa5a2b8116e2f6c22289e54853616\\classes.dex
+base.1=D\:\\Facultate\\Proiecte\\Sarah\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8e5ac1df3e5fa5a2b8116e2f6c22289e54853616
+file.0=D\:\\Facultate\\Proiecte\\Sarah\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_da9dcdb52d75dfc48bc131cfc29302ef6a875892\\classes.dex

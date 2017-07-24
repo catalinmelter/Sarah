@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_0e852f1701273b7e61134e98992cfe4b40a006d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_e7f9b3320a1b5e192c1a9af3b5dd1b3946234b51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_6c10de6f2e1973b4b60cf3e05a103a6303f4c0a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_801e7861de158d274c6ce12f70637ac45b41d72a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_a35f6ad828d5056fd041b919dae1a0b4b13d0932\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_9fac1f7ca9f462e5bb97825d5d294d928e61059d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-25.0.1_3a025ed87c303994f0cad1d868a2c1449d852751\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_a3817cc290e38f099144b67a19af7f3eae77d1b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_909b01c0237e5fc46afcce99fc7255c99d77e4c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_59f1ca15d233cc171994b6c2566aa46c3de89b63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_6f6ed614a975fd2e0a6d7e11cf4140d4edfb4e74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_aa53f87e1a2442a0989ede66442e616b7b0fcf45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_b821a6824c3756e0086eb7e90d4cdab3829c8de4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="773166e9150e3e213a28c516ef20a52b98d72760">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9816fa62563b60ae109f92c3da0ec4bfabc3a5c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_57958665330e8b7de1148b5d3206d5a453685ac2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-8.4.0_4fdf02e698c618fafdc2aa5802f52980bc56318d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_52805b3637f53adcb16345a523c2117a3415cb58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_052ff1b4539a4de36275070fcbbac63c95da5488\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a9f474806b1cfeb1a1f827e8bd54f5863ded3d3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2af476d7d120936917301a64c0016be50c433e6a">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_da9dcdb52d75dfc48bc131cfc29302ef6a875892\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_77d9a910e54921982b23380058ccb68d4d36e73f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-8.4.0_4284f2861fbd78dbd5ca4ef444207d53fe5535ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3798ef1fe61d4e05ea46e21966cc5b95751454cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_27b6ce17f97abb5d13aa30d779fd4ed0032ff32a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_82667225e8e0673ef6bcb27a7d609d2983e2c264\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_bf33052dccff9c4b4330b9edddf2d01837f25f28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_76f562ccd1163dabcea276e7f28165814ef43536\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-8.4.0_5170a25e2e1ba3fc81cd038589e30241f0ef1a4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_0a3cf9d342b31e94e6803e7d6c929e06e5e2b18a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melte\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_6571e8f53b27b48150da86a6b47c00c86c9c4b6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_37eea41c6e22cbb02e51bac7000d38358b92b2df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_bf5edafd428bd9c3d6b3166f9f3f7cd446e9bb92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-25.0.1_e1ab73658428dda37e3d70ad4ebe5fb20f9b77d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_48b33467780fc708970f8f8704efdeebadd7d4d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_5b20a095909198f2fec0e842bf2049b6ce962ba1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_06dd3d4a9e0698f6bc1582a7a15f08c4b5f51798\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_af8549bbec15f10b5732d37c5d61bfb32759c57c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.3.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.maps.android-android-maps-utils-0.3.4_417d4f9923869c492160a5161385a3d602e2e3fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\melte\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.6.1_ab3be50be0a320c0e56db3efba2768d2860138d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ff67c7c2039420ec3396d63f3252e712685c5b9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_25c1a01b8dab15b36d585ed5c97682ae04ca40ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_57e622de20f0e50578ef8e820364dee8b27e86a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_0b9b79cb830ad96f551daf6a287eb14905931e29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a5fbf80b17970e4768fd48f2c2f9d9339e69b1e">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8e5ac1df3e5fa5a2b8116e2f6c22289e54853616\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_31d611425f0c934a4a3a04503c681eceefcc996d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_f93ba70d0706c227ff03205128beea0278dffbce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ea07f4bf68d2af5581c04f7c932f3b7c9d788e4">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8c1e32f13375484227e0c0877babed6d1fce099e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_553ff7fe08a06ebe63105876d3d54dbca0a08a08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_1101b58ddfe3631f8991e20135ddc2634f8e386d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-8.4.0_7bbe8749332edb747e558683c62eaec3ccb488cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_9c498112160078fc7a46427a428fc622e055d912\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="G:\facultate\Anul3\Semestrul 1\Android\Aplicatii\Proiect\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_cfd7728ad7df3f17c223311cf71449fd125b735a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.3.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.maps.android-android-maps-utils-0.3.4_387481d3591b5ac91d568efd2b9f1b7510d9c70e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="D:\Facultate\Proiecte\Sarah\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_4b9772f13d7209e76a7739eee19434ad01b50edc\classes.dex" />
+    </item>
+
+</items>

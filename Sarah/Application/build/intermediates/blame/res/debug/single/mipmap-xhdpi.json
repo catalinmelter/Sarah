@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_logo_white.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Application\\src\\main\\res\\mipmap-xhdpi\\ic_logo_white.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_pin_location.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Application\\src\\main\\res\\mipmap-xhdpi\\ic_pin_location.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_call_icon.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Application\\src\\main\\res\\mipmap-xhdpi\\ic_call_icon.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_clogo.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Application\\src\\main\\res\\mipmap-xhdpi\\ic_clogo.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_phone_call.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Application\\src\\main\\res\\mipmap-xhdpi\\ic_phone_call.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Application\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_logo.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Application\\src\\main\\res\\mipmap-xhdpi\\ic_logo.png"
+    }
+]

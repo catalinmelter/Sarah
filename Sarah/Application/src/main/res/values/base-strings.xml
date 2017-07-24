@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Emra</string>
+    <string name="intro_message">
+        <![CDATA[
+        
+
+This is a Shoping Assistant App. Enjoy!
+
+        
+        ]]>
+    </string>
+</resources>
