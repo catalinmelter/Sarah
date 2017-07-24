@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Emra</string>
+    <string name="action_explore">Explore</string>
+    <string name="action_navigate">Start walking navigation</string>
+    <string name="action_open">Open on phone</string>
+    <string name="exit_intro_text">Long-press anywhere to exit</string>
+    <string name="map_caption">%s away</string>
+
+    <plurals name="attractions_found">
+        <item quantity="one">One shop nearby!</item>
+        <item quantity="other">%d shops nearby!</item>
+    </plurals>
+
+</resources>

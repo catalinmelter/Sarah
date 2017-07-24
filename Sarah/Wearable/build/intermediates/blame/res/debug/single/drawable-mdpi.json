@@ -1,0 +1,458 @@
+[
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\powered_by_google_light.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\powered_by_google_dark.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\places_ic_clear.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_name.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\places_ic_clear.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_full_open_on_phone.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\powered_by_google_light.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_name.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_full_open_on_phone.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\powered_by_google_light.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_name.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\places_ic_search.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\places_ic_search.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\powered_by_google_dark.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\places_ic_search.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\places_ic_search.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\places_ic_clear.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_full_open_on_phone.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\powered_by_google_dark.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\places_ic_search.png",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\places_ic_search.png"
+    }
+]

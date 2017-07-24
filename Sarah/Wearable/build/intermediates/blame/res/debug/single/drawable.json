@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\close_button.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.4.0\\res\\drawable\\close_button.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\close_button.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.4.0\\res\\drawable\\close_button.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\close_button.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.4.0\\res\\drawable\\close_button.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\card_background.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.4.0\\res\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_logo.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\src\\main\\res\\drawable\\ic_logo.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_logo.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\src\\main\\res\\drawable\\ic_logo.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_logo.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\src\\main\\res\\drawable\\ic_logo.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\card_background.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.4.0\\res\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\card_background.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.4.0\\res\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\Facultate\\Anul3\\Android\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "G:\\facultate\\Anul3\\Semestrul 1\\Android\\Aplicatii\\Proiect\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Facultate\\Proiecte\\Sarah\\Wearable\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    }
+]

@@ -1,0 +1,18 @@
+<resources>
+
+    <style name="CardFontStyle" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">#434343</item>
+        <item name="android:fontFamily">sans-serif-condensed-light</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:padding">@dimen/card_margin</item>
+    </style>
+
+    <style name="PagerTitleStyle" parent="@android:style/TextAppearance.Large">
+        <item name="android:fontFamily">sans-serif-condensed-light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+</resources>
